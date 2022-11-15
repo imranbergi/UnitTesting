@@ -1,0 +1,6 @@
+C:\Users\Imran\OneDrive\Desktop\Unit Test Mocking\UnitTestDataMock\obj\Debug\UnitTestDataMock.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\Unit Test Mocking\UnitTestDataMock\obj\Debug\UnitTestDataMock.csproj.CoreCompileInputs.cache
+C:\Users\Imran\OneDrive\Desktop\Unit Test Mocking\UnitTestDataMock\bin\Debug\UnitTestDataMock.dll
+C:\Users\Imran\OneDrive\Desktop\Unit Test Mocking\UnitTestDataMock\bin\Debug\UnitTestDataMock.pdb
+C:\Users\Imran\OneDrive\Desktop\Unit Test Mocking\UnitTestDataMock\obj\Debug\UnitTestDataMock.dll
+C:\Users\Imran\OneDrive\Desktop\Unit Test Mocking\UnitTestDataMock\obj\Debug\UnitTestDataMock.pdb
